@@ -57,6 +57,8 @@ while True:
         print()
         print("#"*60)
     elif a1 in "Ee":
+        print("*"*60)
+        print(" "*20,"Thanks, Visit Again...")
         print("#"*60)
         break
     else:
